@@ -1,3 +1,5 @@
-theme: minima
-title: Ziyi Mu's web
-author: Ziyi Mu
+title: GitHub Pages
+description: Bookmark for updates!
+remote_theme: pages-themes/cayman
+plugins:
+- jekyll-remote-theme
